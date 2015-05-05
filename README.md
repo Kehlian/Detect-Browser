@@ -1,2 +1,2 @@
 # Detect-Browser
-Will detect which browser you're using
+A small javascript that will detect which browser you're using
